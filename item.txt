@@ -1,0 +1,33 @@
+30
+Timex_Expedition_Watch		64.95
+Amazon_Fire_Stick		39.00
+Me_Undies			20.00
+The_Winston_Set			36.00
+StarWars_BattleFront		59.88
+Bellroy_Slim_Wallet		79.95
+SoundFreak_Bluetooth_Speakers	69.00
+History_Of_Food_In_100_Recipes	24.86
+Trunk_Club			100.00
+Cacti				46.00
+BumbleBee_pendant		146.00
+Deluxe_Pajamas_			89.00
+Frosted_NailPolist		18.00
+Straigtener			145.00
+Personalized_Nutella_Jar	5.00
+Candle				45.00
+Beats_by_Dre			169.00
+Jawbone				99.94
+Drone				500.00
+3d_Printer			849.00
+My_Wondercube			17.99
+Serenity_Star			64.99
+Heated_Trow			55.00
+Victory_Trophy			65.00
+Gloves				29.95
+3D-Projector			59.90
+Balancing_Blocks		47.98
+Converse			74.95
+Diamond_Necklace		28.98
+magnetic_Putty			14.99
+
+
